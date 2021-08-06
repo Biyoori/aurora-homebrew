@@ -5,11 +5,11 @@
         <description>5e homebrew</description>
         <author url="https://drive.google.com/file/d/12oLYvWcY69IdjhDB3hlPgYLgez25tKIe/view?usp=sharing">BiyoriBrew</author>
         <update version="0.0.4">
-            <file name="scarecrow-race.xml" url="user/scarecrow-race.xml" />
+            <file name="scarecrow-race.xml" url="" />
         </update>
     </info>
 
-    <element name="Dryad" type="Race" source="D&amp;D Wiki" id="ID_WIKI_RACE_DRYAD">
+    <element name="Scarecrow" type="Race" source="BiyoriBrew" id="ID_RACE_SCARECROW">
         <description>
             <h4>PHYSICAL DESCRIPTION</h4>
             <p>Scarecrows are faint, seemingly lifeless figures left out in fields to frighten off birds and other creatures from crops, as well as a rather unsettling deterrence for would-be trespassers. Most scarecrows, mundane or living, are simply a couple of garments filled with straw and a crudely-made face, hung up on a rack to keep upright. The materials vary but usually are made with what is available to farmers, like hay and pumpkins. An animated scarecrow can just as easily maintain the illusion of lifelessness, but often has either glowing or empty eyes, no teeth, and wiry, dry limbs that can move.</p>
@@ -19,12 +19,12 @@
             On the other scale of the spectrum are scarecrows which occur naturally. Same as their constructed cousins, evil spirits tend to manifest easier into physical effigies and possess them. However, there are sometimes awakenings of the scarecrows into pure self-consciousness and sentience. These are usually less malevolent and more curious. Sometimes it is a deity or powerful magic which may raise a scarecrow and make it aware. These roam and often are very open to new experiences, like curious children. There have been sightings previously of towns where a scarecrow is resident and sometimes even a guardian, helping with the farm work and keeping out threats.</p>
             <h4>SOCIETY</h4>
             <p>Scarecrows frankly don't have much of a society per-se being constructs usually made by those of a more chaotic alignment, using them as free labour. They do, however, possess all the necessary faculties to do so. The main issue is most of scarecrows are risen to solely be servants after a master. Those with free minds and sentience are too few and far in between. Even those who have been liberated by the death of their master usually do not seek company, but rather continuation of the misdeeds they may have been doing prior. Some scholars believe that, if such a society were possible, it would likely be very agricultural based.</p>
-            <h4>DRYAD NAMES</h4>
+            <h4>SCARECROW NAMES</h4>
             <p>As a result of being constructed they are oft named by their creators, which often leads to them being given humiliating and often demeaning names in an act of dehumanising them, despite their sentience. Gender would play no role in their name as, physically, besides their clothes, they are of no gender.</p>
             <p>
                 <b>Names: </b>Rags, Patches, Stitches, Raggy, Fiddlesticks          
             </p>
-            <h4>DRYAD TRAITS</h4>
+            <h4>SCARECROW TRAITS</h4>
             <p>Scarecrows are lost souls, bound to simple material bodies by magic</p>
             <p>
                 <span class="feature">Ability Score Increase.</span>Your Dexterity and Charisma scores each increase by 1.<br />
