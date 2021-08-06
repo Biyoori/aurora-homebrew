@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Scarecrow</name>
+        <description>5e homebrew</description>
+        <author url="https://drive.google.com/file/d/12oLYvWcY69IdjhDB3hlPgYLgez25tKIe/view?usp=sharing">BiyoriBrew</author>
+        <update version="0.0.4">
+            <file name="scarecrow-race.xml" url="user/scarecrow-race.xml" />
+        </update>
+    </info>
+
+    <element name="Dryad" type="Race" source="D&amp;D Wiki" id="ID_WIKI_RACE_DRYAD">
+        <description>
+            <h4>PHYSICAL DESCRIPTION</h4>
+            <p>Scarecrows are faint, seemingly lifeless figures left out in fields to frighten off birds and other creatures from crops, as well as a rather unsettling deterrence for would-be trespassers. Most scarecrows, mundane or living, are simply a couple of garments filled with straw and a crudely-made face, hung up on a rack to keep upright. The materials vary but usually are made with what is available to farmers, like hay and pumpkins. An animated scarecrow can just as easily maintain the illusion of lifelessness, but often has either glowing or empty eyes, no teeth, and wiry, dry limbs that can move.</p>
+            <h4>HISTORY</h4>
+            <p>Though long-used as simple, mundane deterrents, witches and hags found that binding a slain creature's spirit to a scarecrow granted it purpose and mobility. This was especially true with evil spirits vying for a second chance. It is this uncanny presence from beyond death that allows a scarecrow to inspire fear in those it gazes upon. Hags and witches often bind scarecrows with the spirits of demons, but any evil spirit will do. Although aspects of the spirit's personality might surface, a scarecrow's spirit doesn't recall the memories it had as a creature, and its will is focused solely on serving its creator. If its creator dies, the spirit inhabiting a scarecrow either continues to follow its last commands, seeks revenge for its creator's death or destroys itself. It is incredibly rare for a scarecrow to develop independence if created by this method.
+
+            On the other scale of the spectrum are scarecrows which occur naturally. Same as their constructed cousins, evil spirits tend to manifest easier into physical effigies and possess them. However, there are sometimes awakenings of the scarecrows into pure self-consciousness and sentience. These are usually less malevolent and more curious. Sometimes it is a deity or powerful magic which may raise a scarecrow and make it aware. These roam and often are very open to new experiences, like curious children. There have been sightings previously of towns where a scarecrow is resident and sometimes even a guardian, helping with the farm work and keeping out threats.</p>
+            <h4>SOCIETY</h4>
+            <p>Scarecrows frankly don't have much of a society per-se being constructs usually made by those of a more chaotic alignment, using them as free labour. They do, however, possess all the necessary faculties to do so. The main issue is most of scarecrows are risen to solely be servants after a master. Those with free minds and sentience are too few and far in between. Even those who have been liberated by the death of their master usually do not seek company, but rather continuation of the misdeeds they may have been doing prior. Some scholars believe that, if such a society were possible, it would likely be very agricultural based.</p>
+            <h4>DRYAD NAMES</h4>
+            <p>As a result of being constructed they are oft named by their creators, which often leads to them being given humiliating and often demeaning names in an act of dehumanising them, despite their sentience. Gender would play no role in their name as, physically, besides their clothes, they are of no gender.</p>
+            <p>
+                <b>Names: </b>Rags, Patches, Stitches, Raggy, Fiddlesticks          
+            </p>
+            <h4>DRYAD TRAITS</h4>
+            <p>Scarecrows are lost souls, bound to simple material bodies by magic</p>
+            <p>
+                <span class="feature">Ability Score Increase.</span>Your Dexterity and Charisma scores each increase by 1.<br />
+                <span class="feature">Age.</span>When a wayward soul is bound to a scarecrow, their new life begins. Like a lost soul, unbound by time, the lifespan of a scarecrow is limitless.br />
+                <span class="feature">Alignment.</span>Scarecrows are common among users of dark rituals and magic, such as hags and witches, meaning they are typically evil. However, there are some neutral and even good scarecrows which occur.<br />
+                <span class="feature">Size.</span>The build of a scarecrow can range from 4 to 7 feet, depending on the creators’ design. Your size is Medium.<br />
+                <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br />
+                <span class="feature">Darkvision.</span>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.<br />
+                <span class="feature">Fibrous Body.</span>Your entire body is viable to be lit aflame. You have disadvantage in saving throws against spells and effects which would ignite you.<br />
+                <span class="feature">Living Construct.</span>You are not organic. Your creature type is construct. As such, spells like cure wounds don't affect you, and you are immune to spells like crown of madness or dominate person because they specifically target humanoids. You are immune to poison damage, being poisoned, and diseases. You do not need to eat or breathe, and any food you do attempt to eat falls through your mouth cavity. Rather than sleeping, you enter an inactive state for 6 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.<br />
+                <span class="feature">False Appearance.</span>While you remain motionless, you are indistinguishable from an ordinary, inanimate scarecrow. Creatures with the ability to see or feel magic can however detect the magic within you.<br />
+                <span class="feature">Gaze of Terrors.</span>You are pretty creepy to run into in a corn field, with your glowing eyes and all. You are proficient in the Intimidation skill.<br />
+                <span class="feature">Magical Being.</span>As you are a body built up of hay, grass or similar materials, it is only magic holding you to this life. You are incapacitated while in the area of an antimagic field. If targeted by dispel magic, you must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.<br />
+                <span class="feature">Mendable.</span>You can be mended like an object, not healed like an organic thing. When the mending spell is cast on you, it has the following alterations: It has a casting time of 1 action. If you have 0 hit points you become stable. As part of the casting of mending the caster may expend any level of spell slot to cause you to regain a number of hit points equal to 1d8, plus their spellcasting ability modifier. For each level of the spell slot expended you regain an additional 1d8 hit points.<br />
+                <span class="feature">Languages.</span>You can speak, read and write in Common.<br />
+            </p>
+        </description>
+        <setters>
+            <set name="names" type="male">Rags, Patches, Stitches, Raggy, Fiddlesticks</set>
+            <set name="names" type="female">Rags, Patches, Stitches, Raggy, Fiddlesticks</set>
+            <set name="names-format">{{name}}</set>
+            <set name="height" modifier="4d8">4'3"</set>
+            <set name="weight" modifier="1d2">40</set>
+        </setters>
+        <sheet display="false">
+            <description>Scarecrows are lost souls, bound to simple material bodies by magic</description>
+        </sheet>
+        <rules>
+            <stat name="Dexterity" value="1" />
+            <stat name="Charisma" value="1" />
+            <grant type="Size" id="ID_SIZE_MEDIUM" />
+            <stat name="innate speed" value="30" bonus="base" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FIBROUS_BODY" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_LIVING_CONSTRUCT" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FALSE_APPEARANCE" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DRYAD_GAZE_OF_TERRORS" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DRYAD_MAGICAL_BEING" />
+            <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DRYAD_MENDABLE" />
+            <grant type="Language" id="ID_LANGUAGE_COMMON" />
+        </rules>
+    </element>
+    <element name="Fibrous Body" type="Racial Trait" source="BiyoriBrew" id="ID_RACIAL_TRAIT_FIBROUS_BODY">
+        <description>
+            <p>Your entire body is viable to be lit aflame. You have disadvantage in saving throws against spells and effects which would ignite you.</p>
+        </description>
+        <sheet>
+            <description>Your entire body is viable to be lit aflame. You have disadvantage in saving throws against spells and effects which would ignite you.</description>
+        </sheet>
+    </element>
+    <element name="Living Construct." type="Racial Trait" source="BiyoriBrew" id="ID_RACIAL_TRAIT_LIVING_CONSTRUCT">
+        <description>
+            <p>You are not organic. Your creature type is construct. As such, spells like cure wounds don't affect you, and you are immune to spells like crown of madness or dominate person because they specifically target humanoids. You are immune to poison damage, being poisoned, and diseases. You do not need to eat or breathe, and any food you do attempt to eat falls through your mouth cavity. Rather than sleeping, you enter an inactive state for 6 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.</p>
+        </description>
+        <sheet>
+            <description>You are not organic. Your creature type is construct. As such, spells like cure wounds don't affect you, and you are immune to spells like crown of madness or dominate person because they specifically target humanoids. You are immune to poison damage, being poisoned, and diseases. You do not need to eat or breathe, and any food you do attempt to eat falls through your mouth cavity. Rather than sleeping, you enter an inactive state for 6 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.</description>
+        </sheet>
+    </element>
+    <element name="False Appearance." type="Racial Trait" source="BiyoriBrew" id="ID_RACIAL_TRAIT_FALSE_APPEARANCE">
+        <description>
+            <p>While you remain motionless, you are indistinguishable from an ordinary, inanimate scarecrow. Creatures with the ability to see or feel magic can however detect the magic within you.</p>
+        </description>
+        <sheet>
+            <description>While you remain motionless, you are indistinguishable from an ordinary, inanimate scarecrow. Creatures with the ability to see or feel magic can however detect the magic within you.</description>
+        </sheet>
+    </element>
+    <element name="Gaze of Terrors." type="Racial Trait" source="BiyoribBrew" id="ID_RACIAL_TRAIT_DRYAD_GAZE_OF_TERRORS">
+        <description>
+            <p>You are pretty creepy to run into in a corn field, with your glowing eyes and all. You are proficient in the Intimidation skill.</p>
+        </description>
+        <sheet>
+            <description>You are pretty creepy to run into in a corn field, with your glowing eyes and all. You are proficient in the Intimidation skill.</description>
+        </sheet>
+    </element>
+    <element name="Magical Being." type="Racial Trait" source="BiyoribBrew" id="ID_RACIAL_TRAIT_DRYAD_MAGICAL_BEING">
+        <description>
+            <p> As you are a body built up of hay, grass or similar materials, it is only magic holding you to this life. You are incapacitated while in the area of an antimagic field. If targeted by dispel magic, you must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</p>
+        </description>
+        <sheet>
+            <description> As you are a body built up of hay, grass or similar materials, it is only magic holding you to this life. You are incapacitated while in the area of an antimagic field. If targeted by dispel magic, you must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.</description>
+        </sheet>
+    </element>
+    <element name="Mendable." type="Racial Trait" source="BiyoribBrew" id="ID_RACIAL_TRAIT_DRYAD_MENDABLE">
+        <description>
+            <p>You can be mended like an object, not healed like an organic thing. When the mending spell is cast on you, it has the following alterations: It has a casting time of 1 action. If you have 0 hit points you become stable. As part of the casting of mending the caster may expend any level of spell slot to cause you to regain a number of hit points equal to 1d8, plus their spellcasting ability modifier. For each level of the spell slot expended you regain an additional 1d8 hit points.</p>
+        </description>
+        <sheet>
+            <description>You can be mended like an object, not healed like an organic thing. When the mending spell is cast on you, it has the following alterations: It has a casting time of 1 action. If you have 0 hit points you become stable. As part of the casting of mending the caster may expend any level of spell slot to cause you to regain a number of hit points equal to 1d8, plus their spellcasting ability modifier. For each level of the spell slot expended you regain an additional 1d8 hit points.</description>
+        </sheet>
+    </element>
+</elements>
